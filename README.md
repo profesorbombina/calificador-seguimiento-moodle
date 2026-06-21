@@ -13,5 +13,4 @@ Aplicación web estática para analizar exportaciones del calificador de Moodle 
 
 ## Publicación
 
-El workflow de GitHub Pages publica automáticamente `index.html` cuando se actualiza la rama `main`.
-
+GitHub Pages publica automáticamente `index.html` desde la raíz de la rama `main`.
